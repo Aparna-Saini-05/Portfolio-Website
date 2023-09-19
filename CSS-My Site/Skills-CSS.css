@@ -1,0 +1,24 @@
+.container{
+  display: inline-block;
+  background-color: black;
+  width: 10%;
+  height: 20px;
+  border-radius: 20px;
+
+
+}
+.value{
+  background-color:#FBB454;
+  width:90%;
+  height: 20px;
+  text-align: center;
+  border-radius: 20px;
+
+}
+.percentage{
+  color:black;
+  font
+  font-size: 20px;
+  margin: auto;
+
+  }
